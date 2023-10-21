@@ -3,7 +3,7 @@ layout: page
 title: Education
 permalink: education
 ---
-Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
+ashdbkjsa;,dnvpkjsadnbvpoiadsnvpkjadfnvalksdnfpkjasdnf
 
 ## Where i've studied
 

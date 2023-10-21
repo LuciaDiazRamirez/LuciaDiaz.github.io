@@ -4,7 +4,7 @@ title: About Me
 permalink: about
 ---
 
-Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
+LUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCY
 
 if you are interested feel free to  [Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
 ### Languges

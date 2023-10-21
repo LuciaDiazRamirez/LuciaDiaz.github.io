@@ -1,0 +1,54 @@
+# change the followings to match your Github username and repo name
+baseurl: "" # the name of your github repo
+url: "https://ivanweissvanderpolgh.github.io/" # the url of your github pages
+
+# site information used in page title, meta data etc.
+title: "Ivan Weiss Van Der Pol - Portfolio"
+description: A Github Pages (Jekyll) template based on TailwindCSS
+
+# color theme for links
+theme-color: pink # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Ivan Weiss Van Der Pol
+author-bio: Passionate Software Engineer Specializing in QA Automation  # change to false to hide
+author-image: logos/logo_face.png  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: About
+  permalink: about
+- text: Education
+  permalink: education
+- text: Certifications
+  permalink: certifications
+- text: Work Experience
+  permalink: work_experience
+- text: Projects
+  permalink: projects
+
+# use false to turn off any social media links
+twitter: false
+facebook: false
+instagram: https://www.instagram.com/ivan_weiss_van_der_pol/
+github: https://github.com/IvanWeissVanDerPolGH/
+linkedin: https://www.linkedin.com/in/ivanweissvanderpol/
+medium: false
+google-scholar: false
+phoneNumber: "+595981324569"
+email: weissvanderpol.ivan@gmail.com
+
+
+# footer information
+footer-msg: "Powered by Tailpages"
+footer-msg-link: https://github.com/harrywang/tailpages
+
+
+# google analytics
+google-analytics: G-WCRC1TC2V5
+
+# jekyll plugins - no need to change
+plugins:
+    - jekyll-seo-tag

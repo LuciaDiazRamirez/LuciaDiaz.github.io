@@ -1,12 +1,13 @@
 ---
 layout: post
-title: add posting automation
-tags: automation python pandas selenium marketing adds
+title: Renderizaciones Exteriores
+tags: Renderizaciones Exteriores
+
 
 ---
-automatic Add poster
+Renderizaciones Exteriores
 
-##### problem
+##### Renderizaciones Exteriores
 
 in my 3d printing business i had to post multiple adds for all my products online
 doing this manually would take a lot of time, and i could  do manual mistakes

@@ -4,18 +4,17 @@ title: About Me
 permalink: about
 ---
 
-LUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCYLUCY
+As an architect, my goal is to start my professional career in the field, applying my knowledge and education, and emphasizing my willingness to learn and strive for excellence. My areas of interest include 2D and 3D graphic representation and architectural photography. To achieve my goals, I focus on continuous education, building a strong portfolio, mastering specialized software, practicing architectural photography, networking, internship opportunities, staying updated, and undertaking personal projects. My ultimate aim is to contribute to the field of architecture with exceptional designs and impactful visual representations.
 
 if you are interested feel free to  [Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
 ### Languges
 
-I am fluent in English, Spanish (Castilian) and i'm polishing my Dutch (Flemish). Being multilingual enables me to effectively communicate and collaborate with diverse teams and stakeholders, facilitating seamless project execution.
+I am fluent in English and Spanish (Castilian). Being multilingual enables me to effectively communicate and collaborate with diverse teams and stakeholders, facilitating seamless project execution.
 
 | Languages | Speech   | Reading   | Writing   |
 |-----------|----------|-----------|-----------|
-| English   | Native   | Native    | Native    |
+| English   | Fluent   | Fluent    | Fluent    |
 | Spanish   | Native   | Native    | Native    |
-| Dutch     | Native   | Intermediate | Beginner |
 
 ## Experience
 

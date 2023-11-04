@@ -1,6 +1,6 @@
 ---
 layout: post
-title: add posting automation
+title: Renderizado Exterior
 tags: automation python pandas selenium marketing adds
 
 

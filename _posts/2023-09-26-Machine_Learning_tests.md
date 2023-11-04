@@ -28,6 +28,9 @@ i made a demo (in spanish) of me running the program (note 0 profesional video b
 
 
 <img  width="50%" height="50%" src="./../assets/posts/Exteriores/3_24 - Foto (1).jpg">
+
+#### foto 1 
+texto de foto 1 
 <img  width="50%" height="50%" src="./../assets/posts/Exteriores/BELEN 2_16 - Foto.jpg">
 <img  width="50%" height="50%" src="./../assets/posts/Exteriores/BELEN 2_17 - Foto.jpg">
 <img  width="50%" height="50%" src="./../assets/posts/Exteriores/Fachada frontal 1.jpg">

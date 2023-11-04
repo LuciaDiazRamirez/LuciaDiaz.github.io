@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning Suport Vector Machines intro presentation
+title: Renderizado Interiores
 tags: automation python pandas machineLearning suportVectorMachines Presentation
 ---
 automatic Add poster

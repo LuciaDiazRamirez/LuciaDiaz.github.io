@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Renderizaciones Exteriores
-tags: Renderizaciones Exteriores
+title: add posting automation
+tags: automation python pandas selenium marketing adds
 
 
 ---

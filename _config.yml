@@ -12,7 +12,7 @@ theme-color: stone # indigo|yellow|pink|green|stone|
 # homepage information
 author: Lucia Diaz Ramirez
 author-bio: Passionate arquitect specialized in digital rendering   # change to false to hide
-author-image: logos/logo_Lucy.jpg  # file must be in the /assets/img/ folder
+author-image: logos/logo_Lucy.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
